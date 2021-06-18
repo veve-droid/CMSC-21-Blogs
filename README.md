@@ -2,8 +2,6 @@
 
 # Week 1
 
-**Review**
-
 Maintaining huge complex data is difficult to overcome. That is why functions and structures are an important part when writing the logic of a program. Using these C features will help to debug the program easily. This week's topic is just a review for me because I already had sight of these in CMSC 11. 
 
 Functions
@@ -20,7 +18,6 @@ Last semester, I had trouble understanding this topic because I do not have an i
 
 
 # Week 2
-
 
 Before this topic was introduced, I thought that there are only one-dimensional arrays in writing a code. I realized that it is inconvenient to use when implementing a relational database (ex. grades of students). Multidimensional arrays are like egg trays. It collects elements of the same type, and it forms a table with rows and columns.
 
