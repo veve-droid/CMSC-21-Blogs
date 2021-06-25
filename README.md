@@ -10,7 +10,7 @@ When using functions, I always imagine that it is a magic box that transforms th
 Recursions
 I had a lot of trouble understanding recursions at first. But after watching Neso Academy's youtube video about it, I realized that it was the easiest topic this week. I also made a habit of creating some diagrams first to visualize how the recursion will happen.
 
-Insert video link
+https://www.youtube.com/watch?v=kepBmgvWNDw
 
 Structures
 Last semester, I had trouble understanding this topic because I do not have an idea how to pass structure values in functions. I've watched tons of other youtube videos, but I still don't get how it works with arrays and functions. I'm looking forward to learn more about it along the way of this course.
